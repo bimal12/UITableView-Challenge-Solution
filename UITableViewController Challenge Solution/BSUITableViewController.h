@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BSUITableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Bimal Shah on 22/09/2014.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BSUITableViewController : UITableViewController
 
 @end
-
